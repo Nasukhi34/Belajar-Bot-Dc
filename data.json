@@ -1,0 +1,38 @@
+{
+  "users": {
+    "996268011885428776": {
+      "cash": 0,
+      "redeemCount": 3,
+      "lastDaily": 1768121592064
+    },
+    "850983058974834699": {
+      "cash": 10002000,
+      "redeemCount": 0,
+      "lastDaily": 0
+    },
+    "1132653044442603631": {
+      "cash": 1000,
+      "redeemCount": 0,
+      "lastDaily": 0
+    },
+    "1378639821198721075": {
+      "cash": 1000,
+      "redeemCount": 0,
+      "lastDaily": 0
+    },
+    "1326912157387980910": {
+      "cash": 1000,
+      "redeemCount": 0,
+      "lastDaily": 0
+    },
+    "1400983336373190737": {
+      "cash": 1000,
+      "redeemCount": 0,
+      "lastDaily": 0
+    }
+  },
+  "pendingGives": {},
+  "usedRedeemCodes": {
+    "MUS4": true
+  }
+}
